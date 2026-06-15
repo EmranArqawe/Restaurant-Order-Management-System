@@ -1,0 +1,55 @@
+C:\C# 2022\مشروع c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\C# 2022\مشروع c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\C# 2022\مشروع c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\C# 2022\مشروع c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\‏‏مشروع c# - نسخة\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\مشروع C#\Project C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MQ\Desktop\Restaurant Order Management System (Desktop Application)\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
